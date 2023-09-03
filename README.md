@@ -84,7 +84,7 @@ Welcome to Flaming Wheelz! This guide will walk you through the steps to get sta
 
 ### Let the Customization Begin!
 
-For support and updates, visit our [website](hypatiagames.net).
+For support and updates, visit our [website](https:/hypatiagames.net).
 
 Happy racing!
 
