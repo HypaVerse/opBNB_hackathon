@@ -78,4 +78,15 @@ Welcome to Flaming Wheelz! This guide will walk you through the steps to get sta
 - Press "Esc" to go back.
 - Use "Enter" to interact with objects in the game.
 
-Have a great time playing Flaming Wheelz! If you encounter any issues or have questions, feel free to reach out for assistance.
+**Download Flaming Wheelz**: Click the link below to start your racing journey!
+
+   [Download Flaming Wheelz](https://drive.google.com/drive/u/0/folders/1BBPr2GFbNxNFPTxy7vNYWEbdaqvVA7J9?usp=sharing)
+
+### Let the Customization Begin!
+
+For support and updates, visit our [website](hypatiagames.net).
+
+Happy racing!
+
+--- 
+
